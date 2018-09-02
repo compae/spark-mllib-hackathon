@@ -1,2 +1,2 @@
 # spark-mllib-hackathon
-Entrnamiento y ejemplos de Spark MLlib
+Entrenamiento y ejemplos de Spark MLlib
